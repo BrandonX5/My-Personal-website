@@ -14,3 +14,20 @@
 
 
 
+const accordionHeaders = document.querySelectorAll('.accordion-header');
+
+accordionHeaders.forEach(header => {
+  header.addEventListener('click', () => {
+    const accordionContent = header.nextElementSibling;
+    const accordionIcon = header.querySelector('i');
+    
+    accordionContent.classList.toggle('active-accordin');
+    accordionContent.style.maxHeight = accordionContent.classList.contains('active-accordin') ? accordionContent.scrollHeight + 'px' : '0';
+    
+    accordionIcon.classList.toggle('fa-chevron-down');
+    accordionIcon.classList.toggle('fa-chevron-up');
+  });
+});
+
+
+
