@@ -22,7 +22,7 @@
           mostly spent it in <strong>IT Support</strong> position but i also
           have grasp on <strong>Networking</strong>,
           <strong>Web Development</strong>, <strong>Manual Testing</strong>,
-          <strong>SEO</strong> and <strong>Azure Cloud concepts</strong>.
+          <strong>SEO</strong> and <strong><a href="azure.php">Azure Cloud concepts</a></strong>.
         </p>
         Due to my previous experience in insurance industry i have very strong
         comunicative skills with clients as well (In Polish).
@@ -556,7 +556,7 @@
   </main>
 
 
-  <!-- <script src="app.js" defer></script> -->
+
 </body>
 
 </html>
