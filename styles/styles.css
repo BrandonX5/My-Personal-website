@@ -961,4 +961,56 @@ section {
   }
 }
 
+.right-header>p>strong>a:hover {
+  color: var(--color-secondary);
+}
+/* Accordin */
+
+.accordion {
+  border: 1px solid var(--color-grey-4);
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.accordion-header {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  cursor: pointer;
+  padding: 10px;
+  position: relative;
+  border-bottom: 1px solid var(--color-grey-4);
+}
+
+.accordion-header:hover {
+  background-color: var(--color-secondary);
+  color: var(--color-white);
+  cursor: pointer;
+  
+}
+
+.accordion-header h3 {
+  margin: 0;
+}
+
+.accordion-header i {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  transition: transform 0.3s;
+}
+
+.accordion-content {
+  background-color: #fff;
+  color: #333;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+}
+
+.accordion-content p {
+  margin: 0;
+  padding: 10px;
+}
+
 /*# sourceMappingURL=styles.css.map */
