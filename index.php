@@ -24,9 +24,7 @@
           <strong>Web Development</strong>, <strong>Manual Testing</strong>,
           <strong>SEO</strong> and <strong><a href="azure.php">Azure Cloud concepts</a></strong>.
         </p>
-        Due to my previous experience in insurance industry i have very strong
-        comunicative skills with clients as well (In Polish).
-        <p></p>
+
         <div class="btn-con" style="margin-bottom: 10px">
           <a href="" class="main-btn">
             <span class="btn-text">Download CV</span>
