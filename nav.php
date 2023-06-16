@@ -3,7 +3,7 @@
         <a href="index.php"><i class="fas fa-home"></i></a>
     </div>
     <div title="about" class="control" data-id="about">
-        <a href="#1"><i class="fas fa-user"></i></a>
+        <a href="aboutme.php"><i class="fas fa-user"></i></a>
     </div>
     <div title="professional experience" class="control" data-id="portfolio">
         <a href="#4"><i class="fas fa-briefcase"></i></a>
