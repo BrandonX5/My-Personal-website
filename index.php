@@ -25,18 +25,8 @@
           <strong>SEO</strong> and <strong><a href="azure.php">Azure Cloud concepts</a></strong>.
         </p>
 
-        <div class="btn-con" style="margin-bottom: 10px">
-          <a href="" class="main-btn">
-            <span class="btn-text">Download CV</span>
-            <span class="btn-icon"><i class="fas fa-download"></i></span>
-          </a>
-        </div>
-        <div class="btn-con">
-          <a href="" class="main-btn">
-            <span class="btn-text">Download reference letter</span>
-            <span class="btn-icon"><i class="fas fa-download"></i></span>
-          </a>
-        </div>
+        <?php
+        include 'cv&reference_letter.php' ?>
       </div>
     </div>
   </header>

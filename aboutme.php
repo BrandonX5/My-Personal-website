@@ -13,14 +13,10 @@
                 <div class="left-about">
                     <h4>Information About me</h4>
                     <p>
-                        Tutaj będzie coś fajnego o mnie ale jeszcze nie wiem co
+                        IT enthusiat looking his way back into doing things that he really enjoyed
                     </p>
-                    <div class="btn-con">
-                        <a href="#" class="main-btn">
-                            <span class="btn-text">Download CV</span>
-                            <span class="btn-icon"><i class="fas fa-download"></i></span>
-                        </a>
-                    </div>
+                    <?php
+                    include 'cv&reference_letter.php' ?>
                 </div>
                 <div class="right-about">
                     <div class="about-item">
