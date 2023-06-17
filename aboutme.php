@@ -13,13 +13,7 @@
                 <div class="left-about">
                     <h4>Information About me</h4>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Eveniet labore nihil obcaecati consequatur. Debitis error doloremque,
-                        vero eos vel nemo eius voluptatem dicta tenetur modi. <br /> <br /> La musica
-                        delectus dolore fugiat exercitationem a,
-                        ipsum quidem quo enim natus accusamus labore dolores nam. Unde.
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                        Harum non necessitatibus deleniti eum soluta.
+                        Tutaj będzie coś fajnego o mnie ale jeszcze nie wiem co
                     </p>
                     <div class="btn-con">
                         <a href="#" class="main-btn">
@@ -59,26 +53,26 @@
                 <h4 class="stat-title">My most valuable skills</h4>
                 <div class="progress-bars">
                     <div class="progress-bar">
-                        <p class="prog-title">Customer service</p>
+                        <p class="prog-title">- Customer service</p>
 
                     </div>
                     <div class="progress-bar">
-                        <p class="prog-title">Networking (training towards CCNA)</p>
+                        <p class="prog-title">- TCP/IP, Networking (training towards CCNA)</p>
                     </div>
                     <div class="progress-bar">
-                        <p class="prog-title">SQL</p>
+                        <p class="prog-title">- SQL, Scripting with python</p>
 
                     </div>
                     <div class="progress-bar">
-                        <p class="prog-title">Scripting with python</p>
+                        <p class="prog-title">- Linux</p>
 
                     </div>
                     <div class="progress-bar">
-                        <p class="prog-title">Web Development</p>
+                        <p class="prog-title">- Web Development</p>
 
                     </div>
                     <div class="progress-bar">
-                        <p class="prog-title">Python</p>
+                        <p class="prog-title">- Office 365, Windows</p>
 
                     </div>
                 </div>
@@ -89,60 +83,70 @@
                     <div class="tl-icon">
                         <i class="fas fa-briefcase"></i>
                     </div>
-                    <p class="tl-duration">2010 - present</p>
-                    <h5>Web Developer<span> - Vircrosoft</span></h5>
+                    <p class="tl-duration">2010 - 2014</p>
+                    <h5>Information Technology<span> ZST CKZiU | Leszno</span></h5>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
+                        I graduated from technical college and passed matric exam.
                     </p>
                 </div>
                 <div class="timeline-item">
                     <div class="tl-icon">
                         <i class="fas fa-briefcase"></i>
                     </div>
-                    <p class="tl-duration">2008 - 2011</p>
-                    <h5>Software Engineer<span> - Boogle, Inc.</span></h5>
+                    <p class="tl-duration">2015 - 2017</p>
+                    <h5>Office Worker<span> WTB Sp. z o.o. | Leszno</span></h5>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
+                        Started my work in insurance broker company initially as assitant, later independent insurance specialist and internal IT support.
                     </p>
                 </div>
                 <div class="timeline-item">
                     <div class="tl-icon">
                         <i class="fas fa-briefcase"></i>
                     </div>
-                    <p class="tl-duration">2016 - 2017</p>
-                    <h5>C++ Programmer<span> - Slime Tech</span></h5>
+                    <p class="tl-duration">2018-2019</p>
+                    <h5>IT Support | Web Developer<span> Infocentrum Sp. z o.o. | Poznań</span></h5>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
+                        I moved to Poznań. Started working as IT support, later moved to ERP department to develop websites (check my reference letter).
                     </p>
                 </div>
                 <div class="timeline-item">
                     <div class="tl-icon">
                         <i class="fas fa-briefcase"></i>
                     </div>
-                    <p class="tl-duration">2009 - 2013</p>
-                    <h5>Business Degree<span> - Sussex University</span></h5>
+                    <p class="tl-duration">2018</p>
+                    <h5>Bootcamp IT Manual Tester<span> Coders Lab | Poznań</span></h5>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
+                        I participated in a stationary 80h IT bootcamp about manual testing, SQL and Linux. Ended with passed ISTQB foundation level exam.
                     </p>
                 </div>
                 <div class="timeline-item">
                     <div class="tl-icon">
                         <i class="fas fa-briefcase"></i>
                     </div>
-                    <p class="tl-duration">2013 - 2016</p>
-                    <h5>Computer Science Degree<span> - Brookes University</span></h5>
+                    <p class="tl-duration">2019</p>
+                    <h5>SEO specialist<span> Sunrise System Sp. z o.o. | Poznań</span></h5>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
+                        Started working as SEO specialist, but after 4 months had to move out of Poznań due to family reasons.
                     </p>
                 </div>
                 <div class="timeline-item">
                     <div class="tl-icon">
                         <i class="fas fa-briefcase"></i>
                     </div>
-                    <p class="tl-duration">2017 - present</p>
-                    <h5>3d Animation<span> - Brighton University</span></h5>
+                    <p class="tl-duration">2019 - 2023</p>
+                    <h5>Crane Operator | Bricklayer, shutting carpenter<span> Firma Ogólnobudowlana Damian Biernaczyk | Robczysko</span></h5>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
+                        Moved to my hometown and started working in my older brother's construction company
+                    </p>
+                </div>
+                <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-briefcase"></i>
+                    </div>
+                    <p class="tl-duration">2023 - now</p>
+                    <h5>Polishing my IT skills<span></span></h5>
+                    <p>
+                        Moved to Rokietnica and now looking for new challenges
                     </p>
                 </div>
             </div>
